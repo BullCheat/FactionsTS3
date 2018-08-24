@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FactionsTS3">
+    <output-path>$PROJECT_DIR$/out/artifacts/FactionsTS3</output-path>
+    <root id="archive" name="FactionsTS3.jar">
+      <element id="module-output" name="FactionsTS3" />
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
